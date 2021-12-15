@@ -50,21 +50,3 @@ input, textarea {
 input:hover, textarea:hover{
     background-color: thistle;
 }
-/* button { background-color: darkblue;
-    color: darkkhaki;
-    font-weight: lighter;
- }
- button:hover {
-     background-color: darkred;
-     color: dimgrey;
- }
- button:active{
-     background-color: violet;
-     color: olivedrab;
-     transition: 0.2s;
- }
- /* button:visited{
-     background-color: black;
-     color: aquamarine;
-     font-family: inherit;
- } */ 
